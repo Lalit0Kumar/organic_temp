@@ -1,4 +1,5 @@
 # organic_temp
 
+# Live Link
 
-# Live Link --- https://lalit0kumar.github.io/organic_temp/
+https://lalit0kumar.github.io/organic_temp/
